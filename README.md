@@ -9,7 +9,7 @@
 ### <code> pip install mlgame </code>
 ### mlgame 會一並把所需要的其它安裝包一起帶進來
 ### 
-### 於 ai_clients\arkanoid\RL_Like 
+### 於 ai_clients\arkanoid\RL_Like\ml_play.py 
 ### 中提供一種由失敗經驗中做機器學習去
 ### 回歸預測球的落點x座標，可直接執行scrtips資料夾中的
 ### mlgame_play.BAT 觀看效果
