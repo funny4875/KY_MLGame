@@ -80,9 +80,7 @@ class MLPlay:
                 elif platformX+20 <= targetX:command = "MOVE_RIGHT"
                 #print(targetX)
                 
-            if y==395:
-                print(frame,'hit')
-            
+            if y==395: print('hit at frame ',frame)            
             if pygame.K_LEFT in keyboard:  command = "MOVE_LEFT"
             elif pygame.K_RIGHT in keyboard: command = "MOVE_RIGHT"
             #print(command)
