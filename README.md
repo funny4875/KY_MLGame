@@ -1,4 +1,4 @@
-# KY_MLGame
+# MLGameDemo
 ## MLGame簡化版 
 ### 本範例只提供 windows 版本
 #### games資料夾中只下載 打磚塊(arkanoid)、打乒乓(pingpong) 兩種遊戲
