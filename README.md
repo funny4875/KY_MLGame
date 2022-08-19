@@ -20,4 +20,6 @@
 ### 
 ### ● Step3.修改 scripts\mlgame_play.BAT 的變數 『pythonPath]』 為『python.exe所在路徑(python3.9)』
 ### ● Step4.執行 mlgame_play.BAT
+####        修改 level 參數，多玩幾關後，下列ai模型將越來越強
+####        <code> ai_clients\arkanoid\RL_Like\model.pickle</code> 
 ### 再次強調本範例只適用 windows 版本
