@@ -18,5 +18,6 @@
 ###       <code> pip install mlgame </code>
 ####      mlgame 會一並把所需要的其它安裝包一起帶進來
 ### 
-### ● Step3.修改 scripts\mlgame_play.BAT 的變數 pythonPath 為python.exe所在路徑(python3.9)
+### ● Step3.修改 scripts\mlgame_play.BAT 的變數 『pythonPath]』 為『python.exe所在路徑(python3.9)』
 ### ● Step4.執行 mlgame_play.BAT
+### 再次強調本範例只適用 windows 版本
