@@ -9,8 +9,8 @@
 <code> ai_clients\arkanoid\RL_Like\ml_play.py </code> 
 #### 可直接執行scrtips資料夾中的
 #### mlgame_play.BAT 觀看效果
-
-#### <a ref=https://youtu.be/-bsTl-3QoRg>操作示範影片</a>
+#### 示範影片連結：
+#### <a ref=https://youtu.be/-bsTl-3QoRg>https://youtu.be/-bsTl-3QoRg</a>
 
 ### 
 ### ● Step1.請先安裝 python3.9 
