@@ -11,6 +11,7 @@
 #### mlgame_play.BAT 觀看效果
 #### 示範影片連結：
 #### <a ref=https://youtu.be/-bsTl-3QoRg>https://youtu.be/-bsTl-3QoRg</a>
+#### 說明簡報連結：
 #### <a>https://docs.google.com/presentation/d/1HW-JS4ukxuAvLjUigd4LZtBCkLiNjVmXkONSCrNE5-M/edit?usp=sharing</a>
 ### 
 ### ● Step1.請先安裝 python3.9 
