@@ -10,7 +10,7 @@
 #### 可直接執行scrtips資料夾中的
 #### mlgame_play.BAT 觀看效果
 
-
+#### <a ref=https://youtu.be/-bsTl-3QoRg>操作示範影片</a>
 
 ### 
 ### ● Step1.請先安裝 python3.9 
