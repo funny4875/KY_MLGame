@@ -11,7 +11,7 @@
 #### mlgame_play.BAT 觀看效果
 #### 示範影片連結：
 #### <a ref=https://youtu.be/-bsTl-3QoRg>https://youtu.be/-bsTl-3QoRg</a>
-
+#### <a>https://docs.google.com/presentation/d/1HW-JS4ukxuAvLjUigd4LZtBCkLiNjVmXkONSCrNE5-M/edit?usp=sharing</a>
 ### 
 ### ● Step1.請先安裝 python3.9 
 ### ● Step2.並於python3.9環境中安裝 sklearn 及 mlgame
